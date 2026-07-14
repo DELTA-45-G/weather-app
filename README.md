@@ -49,6 +49,12 @@ Start the development server:
 npm run dev
 ```
 5. Open the link provided in the terminal (usually http://localhost:5173) to view the app.
+6. App interface looks like
+<img width="1282" height="725" alt="image" src="https://github.com/user-attachments/assets/a5fc7a29-3c19-4699-b79f-3b3aab50cb3e" />
+
+
+
+
 
 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
